@@ -13,7 +13,7 @@ The output of the election results need to be printed on the terminal as well as
 In the Election Audit we used the dataset with three columns Ballot ID, County, Candidate and 369712 rows of election results in three county Jefferson,Denver and Arapahoe. There are three candidates running the election Charles Casper Stockham, Diana DeGette and Raymon Anthony Doane. In this challenge we used two lists candiate_options and county and two dictionaries candidate_votes and county_votes.
 
 ![step1](https://user-images.githubusercontent.com/111251560/190280131-fc709a3f-41a0-4861-81f0-867ad07e0b23.png)
-
+winning_candidate and winning_county variables are initalized and winning count, winning percentage, winning_county, winning_county_percentage are initalized to 0 as they will be containing numeric values as shown above. 
 
 
 ## Election-Audit Results
