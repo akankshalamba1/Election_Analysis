@@ -1,4 +1,13 @@
 # Election_Analysis
+Election-Analysis is based on the Colorado board of elections, where we used Python software to help, Tom, audit the tabulated results for a U.S. congressional precinct in Colorado. Our task included the following:
+- Reporting the total number of votes cast
+- Each county and its total vote count of votes
+- Each county and its percentage of the total votes
+- The county with the largest number of voters
+- The percentage of votes for each candidate
+- The total number of votes for each candidate 
+- The winner of the election based on the popular vote
+
 ## Overview of Election Audit
 ## Election-Audit Results
 - **How many votes were cast in this congressional election?**
