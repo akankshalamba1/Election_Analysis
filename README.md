@@ -88,8 +88,22 @@ The business proposal is attached here with:
 
 [Pypoll](/resources/Pypoll.py)
 
-- For the election at a larger level we could further refcator the code and provide data by different county or province with how many votes each candidate get in each county.
+- For the election at a larger level we could further refcator the code and provide data by different county or province with how many votes each candidate get in each county. This output will be helpful in Federal election were it will show which candidate got the most votes in which province. 
 
-> For example: Denver : 1. Charles Casper Stockham got __ votes
->                       2. Diana DeGette got __ votes
->                       3. Raymon Anthony Doane got __ votes
+> For example: 
+> Denver : 
+- 1. Charles Casper Stockham got __ votes
+- 2. Diana DeGette got __ votes
+- 3. Raymon Anthony Doane got __ votes
+
+> Jefferson :
+- 1. Charles Casper Stockham got __ votes
+- 2. Diana DeGette got __ votes
+- 3. Raymon Anthony Doane got __ votes
+
+> Arapahoe :
+- 1. Charles Casper Stockham got __ votes
+- 2. Diana DeGette got __ votes
+- 3. Raymon Anthony Doane got __ votes
+
+There are ways this script could be modified based on the output that we need from it. If given opportunity our method of audit will be of great use for the Election commission.
