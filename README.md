@@ -60,10 +60,6 @@ Dever county had the largest number of votes casted (306,055 votes) 82.8%
 - Diana DeGette received 272,892 votes, 73.8% of total votes
 - Raymon Anthony Doane received 11,606 votes, 3.1% of total votes
 
-As depicted below:
-
-![winning_candidate](https://user-images.githubusercontent.com/111251560/190295610-272fe547-c5bd-4d21-8141-6616695641ac.png)
-
 - **Which candidate won the election, what was their vote count, and what was their percentage of the total votes?**
 
 > -------------------------
@@ -74,6 +70,9 @@ As depicted below:
 > Winning Percentage: 73.8%
 ---------------------------
 
+[Test Image](/resources/Election_result_terminal)
+
+![election_results_textfile_output](https://user-images.githubusercontent.com/111251560/190309112-ff1bb9df-ab34-48ec-9862-4a7b87983a81.png)
 
 ## Election-Audit Summary
 
@@ -86,6 +85,7 @@ The business proposal is attached here with:
 **Proposaed modifications to the script:**
 - The script used in analysis of election results in Colorado already has standadized variable names like winning_candidate, winning_county, winning_percentage that could remain the same for any election result data. It could be used for local and higher level elections as well which have more number of county and vast number of candidate. the output will update based on the different attributes provided in the data. we could modify the script to just show the winning candiate, total votes and vote of each candidate if the election is at a smaller level by using the code attached below:
 
+![winning_candidate](https://user-images.githubusercontent.com/111251560/190295610-272fe547-c5bd-4d21-8141-6616695641ac.png)
 [Pypoll](/resources/Pypoll.py)
 
 - For the election at a larger level we could further refcator the code and provide data by different county or province with how many votes each candidate get in each county. This output will be helpful in Federal election were it will show which candidate got the most votes in which province. 
