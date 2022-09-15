@@ -82,7 +82,7 @@ Result as dipicted on the text file:
 
 ## Election-Audit Summary
 
-We would like to initaite a business proposal to the election commission that our script could be used to provide election results for any elections. By working pon this challenege we were able to create a script that could be used by election commission to summarize any election results. 
+We would like to initaite a business proposal to the election commission that our script could be used to provide election results for any elections. By working on this challenege we were able to create a script that could be used by election commission to summarize any election results. 
 The business proposal is attached here with:
 
 [business proposal.pdf](https://github.com/akankshalamba1/Election_Analysis/files/9571449/business.proposal.pdf)
@@ -95,7 +95,7 @@ The business proposal is attached here with:
 
 ![winning_candidate](https://user-images.githubusercontent.com/111251560/190295610-272fe547-c5bd-4d21-8141-6616695641ac.png)
 
-- For the election at a larger level we could further refcator the code and provide data by different county or province with how many votes each candidate get in each county. This output will be helpful in Federal election were it will show which candidate got the most votes in which province. 
+- For the election at a larger level we could further refactor the code and provide data by different county or province with how many votes each candidate get in each county. This output will be helpful in Federal election were it will show which candidate got the most votes in which province. 
 
 > For example: 
 > Denver : 
