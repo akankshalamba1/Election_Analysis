@@ -77,3 +77,8 @@ As depicted below:
 
 ## Election-Audit Summary
 
+We would like to initaite a business proposal to the election commission that our script could be used to provide election results for any elections. By working pon this challenege we were able to create a script that could be used by election commission to summarize any election results. 
+The business proposal is attached here with:
+
+[business proposal.pdf](https://github.com/akankshalamba1/Election_Analysis/files/9571449/business.proposal.pdf)
+
