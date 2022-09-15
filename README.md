@@ -40,6 +40,7 @@ With the used of for loop and If statements in Python we were able to get our re
 
 ## Election-Audit Results
 - **How many votes were cast in this congressional election?**
+
 Total 369,711 votes were casted
 
 - **Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.**
@@ -50,9 +51,11 @@ Total 369,711 votes were casted
 - Arapahoe: 24,801 votes were casted which is 6.7% of the total votes casted
 
 - **Which county had the largest number of votes?**
+
 Dever county had the largest number of votes casted (306,055 votes) 82.8%
 
 - **Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.**
+
 - Charles Casper Stockham received 85,213 votes, 23.0% of total votes
 - Diana DeGette received 272,892 votes, 73.8% of total votes
 - Raymon Anthony Doane received 11,606 votes, 3.1% of total votes
@@ -62,8 +65,6 @@ As depicted below:
 ![winning_candidate](https://user-images.githubusercontent.com/111251560/190295610-272fe547-c5bd-4d21-8141-6616695641ac.png)
 
 - **Which candidate won the election, what was their vote count, and what was their percentage of the total votes?**
-
-Diana DeGette is the winning candidate! with 272,892 votes in total
 
 > -------------------------
   Winner: Diana DeGette
