@@ -71,12 +71,14 @@ Dever county had the largest number of votes casted (306,055 votes) 82.8%
 ---------------------------
 
 Result on the terminal:
+
 ![Test Image](/resources/Election_result_terminal.png)
 
 Result as dipicted on the text file:
+
 ![election_results_textfile_output](https://user-images.githubusercontent.com/111251560/190309112-ff1bb9df-ab34-48ec-9862-4a7b87983a81.png)
 
-[Election Result text file](/resources/election_result.txt)
+[Election Result text file](/analysis/election_analysis.txt)
 
 ## Election-Audit Summary
 
