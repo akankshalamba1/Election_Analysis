@@ -88,7 +88,7 @@ The business proposal is attached here with:
 [business proposal.pdf](https://github.com/akankshalamba1/Election_Analysis/files/9571449/business.proposal.pdf)
 ![business_proposal](https://user-images.githubusercontent.com/111251560/190305630-4e6bde66-c1da-473a-a9d4-f2c14b142cc1.png)
 
-**Proposaed modifications to the script:**
+**Proposed modifications to the script:**
 - The script used in analysis of election results in Colorado already has standadized variable names like winning_candidate, winning_county, winning_percentage that could remain the same for any election result data. It could be used for local and higher level elections as well which have more number of county and vast number of candidate. the output will update based on the different attributes provided in the data. we could modify the script to just show the winning candiate, total votes and vote of each candidate if the election is at a smaller level by using the code attached below:
 
 [Pypoll](/PyPoll.py)
