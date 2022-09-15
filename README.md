@@ -7,8 +7,9 @@ Election-Analysis is based on the Colorado board of elections, where we used Pyt
 - The percentage of votes for each candidate
 - The total number of votes for each candidate 
 - The winner of the election based on the popular vote
+
 The output of the election results need to be printed on the terminal as well as a text file.
-Following dataset was used:
+Following dataset was used for this analysis:
 
 [Election_results](/resources/election_results.csv)
 
@@ -35,13 +36,41 @@ For this Analysis we used 3 for loops:
 
 ![for3](https://user-images.githubusercontent.com/111251560/190294031-afd62a54-8ce2-46bf-875f-bc0dcb7bcf51.png)
 
-With the used of for loop and If statements in Python we were able to get our results
+With the used of for loop and If statements in Python we were able to get our results as requested by Tom and his boss Seth.
 
 ## Election-Audit Results
 - **How many votes were cast in this congressional election?**
+Total 369,711 votes were casted
+
 - **Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.**
+
+*County Votes:*
+- Jefferson: 38,855 votes were casted which is, 10.5% of the total votes casted
+- Denver: 306,055 votes were casted which is 82.8% of the total votes casted
+- Arapahoe: 24,801 votes were casted which is 6.7% of the total votes casted
+
 - **Which county had the largest number of votes?**
+Dever county had the largest number of votes casted (306,055 votes) 82.8%
+
 - **Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.**
+- Charles Casper Stockham received 85,213 votes, 23.0% of total votes
+- Diana DeGette received 272,892 votes, 73.8% of total votes
+- Raymon Anthony Doane received 11,606 votes, 3.1% of total votes
+
+As depicted below:
+
+![winning_candidate](https://user-images.githubusercontent.com/111251560/190295610-272fe547-c5bd-4d21-8141-6616695641ac.png)
+
 - **Which candidate won the election, what was their vote count, and what was their percentage of the total votes?**
+
+Diana DeGette is the winning candidate! with 272,892 votes in total
+
+> -------------------------
+  Winner: Diana DeGette
+  Winning Vote Count: 272,892
+  Winning Percentage: 73.8%
+  -------------------------
+
+
 ## Election-Audit Summary
 
