@@ -81,4 +81,5 @@ We would like to initaite a business proposal to the election commission that ou
 The business proposal is attached here with:
 
 [business proposal.pdf](https://github.com/akankshalamba1/Election_Analysis/files/9571449/business.proposal.pdf)
+![business_proposal](https://user-images.githubusercontent.com/111251560/190305630-4e6bde66-c1da-473a-a9d4-f2c14b142cc1.png)
 
