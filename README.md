@@ -15,7 +15,21 @@ In the Election Audit we used the dataset with three columns Ballot ID, County, 
 ![step1](https://user-images.githubusercontent.com/111251560/190280131-fc709a3f-41a0-4861-81f0-867ad07e0b23.png)
 
 winning_candidate and winning_county variables are initalized and winning count, winning percentage, winning_county, winning_county_percentage are initalized to 0 as they will be containing numeric values as shown above. 
-As we are required to provide output on terminal and output on text file so we assign the path of the csv file to a variable file_to_load and the text file we want to print the elections output to as file_to_save
+
+As we are required to provide output on terminal and output on text file so we assign the path of the csv file to a variable file_to_load and the text file we want to print the elections output to as file_to_save. 
+
+**For loops and Conditional statements**
+For this Analysis we used 3 for loops:
+- *To find the total number of votes* 
+
+ ![for1](https://user-images.githubusercontent.com/111251560/190293653-10c75913-e595-4104-b2ad-de9c77c0b609.png)
+
+- *To find the total votes and percentage of votes from each county and Largest County turnover*
+
+![for2](https://user-images.githubusercontent.com/111251560/190293673-b8861cc6-02fc-48e5-8680-88bf44a45a02.png)
+
+- *To find the total votes and percentage of votes each candidate got and the winning candidate*
+
 
 
 ## Election-Audit Results
@@ -25,3 +39,4 @@ As we are required to provide output on terminal and output on text file so we a
 - **Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.**
 - **Which candidate won the election, what was their vote count, and what was their percentage of the total votes?**
 ## Election-Audit Summary
+
