@@ -8,6 +8,9 @@ Election-Analysis is based on the Colorado board of elections, where we used Pyt
 - The total number of votes for each candidate 
 - The winner of the election based on the popular vote
 The output of the election results need to be printed on the terminal as well as a text file.
+Following dataset was used:
+
+[Election_results](/Resources/election_results.csv)
 
 ## Overview of Election Audit
 In the Election Audit we used the dataset with three columns Ballot ID, County, Candidate and 369712 rows of election results in three county Jefferson,Denver and Arapahoe. There are three candidates running the election Charles Casper Stockham, Diana DeGette and Raymon Anthony Doane. In this challenge we used two lists candiate_options and county and two dictionaries candidate_votes and county_votes.
@@ -30,7 +33,9 @@ For this Analysis we used 3 for loops:
 
 - *To find the total votes and percentage of votes each candidate got and the winning candidate*
 
+![for3](https://user-images.githubusercontent.com/111251560/190294031-afd62a54-8ce2-46bf-875f-bc0dcb7bcf51.png)
 
+With the used of for loop and If statements in Python we were able to get our results
 
 ## Election-Audit Results
 - **How many votes were cast in this congressional election?**
